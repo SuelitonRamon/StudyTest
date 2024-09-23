@@ -1,2 +1,4 @@
 Nome: Sueliton
+Idade: 20
+Altura: 1.79
 CPF: 000.000.000-00
